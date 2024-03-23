@@ -1,6 +1,6 @@
 Welcome to my first Power BI portfolio project.
 
-**"Ski World Resort Analysis"**
+**"World Ski Resort Analysis"**
 
 **a. Dataset.**
 
